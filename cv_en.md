@@ -1,8 +1,10 @@
-*Olga Valieva**
+# **Olga Valieva**
 
-#### _+998 900438198_
-#### <olga.valieva@hotmail.com>
-#### <https://t.me/olgavalievav>
+*  *Phone:* _+998 900438198_
+* *E-mail:* <olga.valieva@hotmail.com>
+* *Telegram:* <https://t.me/olgavalievav>
+* *Github:*  <https://github.com/OlgaValieva>
+* *Linkedin* <https://www.linkedin.com/in/valieva/>
 
 ## Summary:
 > _Master of Engineering and Technology (diploma with honors)\
@@ -12,7 +14,7 @@
 
 ## Experience:
 05/2014 – 06/2018
-### [LLC INPK "Tyumen water treatment systems"](http://www.water72.ru/), Tyumen
+### [LLC INPK "Tyumen water treatment systems"](http://www.water72.ru/) Tyumen
 Design engineer
 * Development of installation and technological schemes, assembly drawings of water treatment units
 * Drawing up specifications of equipment and materials
@@ -21,7 +23,7 @@ Design engineer
 * Work with sub-suppliers, registration of applications, technical support of the order
 
 10/2010 – 05/2014
-### [LLC Sakhalin Technical Services Network](https://www.woodplc.com/?utm_medium=cpc&utm_source=SakhalinBiz&utm_campaign=psn-sakhalin), Yuzhno-Sakhalinsk
+### [LLC Sakhalin Technical Services Network](https://www.woodplc.com/?utm_medium=cpc&utm_source=SakhalinBiz&utm_campaign=psn-sakhalin) Yuzhno-Sakhalinsk
 Sakhalin-1 Project (Exxon)
 Junior Design Engineer
 * Preparation of isometric drawings of technological pipelines
@@ -32,7 +34,7 @@ Junior Design Engineer
 * Hydraulic calculations of pipeline systems
 
 11/2008 – 04/2009
-### [TatNIPIenergoprom](https://www.ker-eng.com/kontakty/tatnipienergoprom/), Kazan
+### [TatNIPIenergoprom](https://www.ker-eng.com/kontakty/tatnipienergoprom/) Kazan
 trainee
 * Development of drawings using the Compass software
 * Carrying out measurements for laying the steam pipeline
