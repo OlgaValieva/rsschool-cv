@@ -52,8 +52,9 @@ trainee
 
 * 09/2004 - 06/2010\
 [Kazan State Power Engineering University](https://kgeu.ru/) (Institute of Thermal Power Engineering)\
-**Master of Engineering and Technology (with honors, GPA 5.0)**\
-"Technical Physics"
+**Master of Engineering and Technology (with honors, GPA 5.0)** "Technical Physics"\
+09/2009 – 06/2010\
+**Teacher of higher education** (professional retraining)
 
 * 09/2005 –– 06/2009\
 [Kazan State Technological University](https://www.kstu.ru/) (Institute of Additional Professional Education)\
@@ -71,7 +72,7 @@ trainee
 * The use of modern computer technologies in the professional activities of engineers and specialists (KSEU, 2006)
 
 ## Skills:
-Bash, Git, PostgreSQL, C, C++, Go, Docker\
+Bash, Git, PostgreSQL, C, C++, Go, Docker, AutoCAD\
 English: Intermediate
 
 ## Additional Information:
