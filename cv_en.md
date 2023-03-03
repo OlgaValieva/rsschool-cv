@@ -1,6 +1,6 @@
 # **Olga Valieva**
 
-*  *Phone:* _+998 900438198_ 
+*  *Phone:* _+998 900438198_ \
             _+7 9990950805_
 * *E-mail:* <olga.valieva@hotmail.com>
 * *Telegram:* <https://t.me/olgavalievav>
