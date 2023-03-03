@@ -1,8 +1,10 @@
 # **Ольга Валиева**
 
-#### _+998 900438198_
-#### <olga.valieva@hotmail.com>
-#### <https://t.me/olgavalievav>
+*  *Phone:* _+998 900438198_ _+7 9990950805_
+* *E-mail:* <olga.valieva@hotmail.com>
+* *Telegram:* <https://t.me/olgavalievav>
+* *Github:*  <https://github.com/OlgaValieva>
+* *Linkedin* <https://www.linkedin.com/in/valieva/>
 
 ## Резюме:
 > _Магистр техники и технологии (диплом с отличием)\
