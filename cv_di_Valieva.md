@@ -1,6 +1,6 @@
 # **Ольга Валиева**
 
-## стажер golang разработка
+## стажер 
 
 * *Phone:* _+7 9990950805_
 * *E-mail:* <olga.valieva@hotmail.com>

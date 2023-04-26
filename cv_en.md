@@ -62,6 +62,7 @@ trainee
 **"Legal bases of economic activity" (with honors)**
 
 ## Certificates/Trainings:
+*[Интенсив по основам SQL(Mathshub)](https://drive.google.com/file/d/1u-mJXBNsk4zG5os14JVojE4f6eulQfJV/view) 2023
 * Introductory course on reading installation and technological schemes (Sakhalin Training Center, 2011)
 * General knowledge about small diameter pipes and fittings (Sakhalin UTC, 2011)
 * Lifting equipment and its equipment (Sakhalin Training Center, 2011)
